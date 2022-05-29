@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box  ;
+    padding: 0;
+    margin: 0;
+}
+
+:root{
+    --primary-height: 50px;
+}
+
+
+.first,
+.second{
+    margin: 10px;
+}
+
+.total
+{
+    text-align: center;
+}
+.title
+{
+    background-color: blueviolet;
+    font-size: 30px;
+    width: 195px;
+    height: var(--primary-height);
+    margin: 0 auto;
+    line-height: var(--primary-height);
+}
+.first
+{
+    font-size: 30px;
+}
+.strong
+{
+    color:cyan;
+}
+.second
+{
+    font-size: 15px;
+}
+.button
+{
+    background-color: black;
+    color: white;
+    width: 195px;
+    height: var(--primary-height);
+    text-align:center;
+    display: inline-block;
+    line-height: var(--primary-height);
+}
+
+
