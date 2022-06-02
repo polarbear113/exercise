@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+:root
+{
+    --primary-height: 50px;
+    --primary-width: 195px;
+}
+.title
+{
+    font-size: 20px;
+    width: 150px;
+    height: 40px;
+    color: white;
+    background-color: rgb(154, 174, 240);
+    display: inline-block;
+    line-height: 40px;
+}
+.text-color
+{
+    color: rgb(41, 169, 243);
+}
+.content
+{
+    font-size: 30px;
+}
+.button
+{
+    height: var(--primary-height);
+    display: inline-block;
+    background-color: black;
+    color: white;
+    width: var(--primary-width);
+    line-height: var(--primary-height);
+    margin-left: 30px;
+}
