@@ -1,0 +1,40 @@
+*{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    width: 600px;
+    margin-left: 5px;
+}
+h1{
+    font-size: 25px;
+}
+.table
+{
+    width: 600px;
+    height: 325px;
+    background-color: rgb(207, 207, 207);
+    color: white;
+    font-size: 45px;
+    line-height: 325px;
+    text-align: center;
+}   
+.button
+{
+    color: white;
+    background-color: rgb(46, 192, 211);
+    width: 125px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 12px;
+}
+h2
+{
+    font-size: 18px;
+    
+}
+p
+{
+    color: rgb(214, 211, 211);
+    font-size: 15px;
+}
