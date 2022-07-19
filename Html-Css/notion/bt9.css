@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .container{
+    width: 350px;
+    height: 150px;
+    margin: auto;
+  }
+  .type{
+   color: white;
+   background-color: rgb(1,186,207);
+   display: inline-block;
+   width: auto ;
+   height: 30px; 
+   line-height: 30px;
+   padding: 0 10px 0 ;
+   margin: 5px;
+}
+p{
+    margin-bottom: 30px;
+    font-size: 30px;
+}
