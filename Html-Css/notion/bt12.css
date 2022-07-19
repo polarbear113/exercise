@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    height: 50px;
+    width: 100%;
+    display: inline-block;
+}
+.logo{
+    width: 190px;
+    height: 50px;
+    display: inline-block;
+    line-height: 50px;
+    background-color: rgb(133,152,204);
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.button{
+     display: inline-block;
+    height: 50px;
+    margin:0px 15px;
+}
+.login_button{
+    display: inline-block;
+    height: 50px;
+    width: 150px;
+    border: 2px solid rgb(239,239,239);
+    margin-left: 200px;
+}

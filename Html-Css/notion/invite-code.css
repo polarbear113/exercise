@@ -5,16 +5,15 @@
 }
 .container
 {
-    width:  500px;
-    background-color: blue;
+    width:  50%;
+    background-color: grey;
     text-align: center;
     display:block;
-    height: 300px;
+    height: 500px;
+    position: relative;
 }
 .button
 {
-    width:125px;
-    height: 40px;
     background-color: rgb(64, 212, 218);
     line-height: 150px;
     font-size: 10px;
@@ -22,7 +21,11 @@
     color: white;
     text-align: center;
     display: block;
-    
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    bottom: 30%;
+    right: 45%;
 }
 input[type=email] {
     width: 30%;
